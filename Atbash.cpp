@@ -51,7 +51,7 @@ char Atbash(char x)
     }
     else if (x >= 'A' && x <= 'Z')
     {
-        return Atbash((char)tolower(x));
+        return ('A' + 'Z') - x;
     }
     else
     {
