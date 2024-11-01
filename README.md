@@ -1,6 +1,10 @@
 # Atbash Cipher
 
-The Atbash Cipher is a simple substitution cipher that replaces each letter of the alphabet with its reverse (e.g., A becomes Z, B becomes Y, etc.). This project implements the Atbash Cipher in C++.
+The Atbash Cipher replaces each letter with its reverse <br/>
+a -> z <br/>
+b -> y <br/>
+c -> x <br/>
+etc.
 
 [Wiki - For the interested](https://en.wikipedia.org/wiki/Atbash)
 
